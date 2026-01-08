@@ -8,7 +8,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Tests](https://github.com/EthanThePhoenix38/Binary-Search-31-Solutions/actions/workflows/tests.yml/badge.svg)](https://github.com/EthanThePhoenix38/Binary-Search-31-Solutions/actions/workflows/tests.yml)
-[![codecov](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)](https://github.com/EthanThePhoenix38/Binary-Search-31-Solutions)
 
 **Forked from:** [super30admin/Binary-Search-31](https://github.com/super30admin/Binary-Search-31)
 
